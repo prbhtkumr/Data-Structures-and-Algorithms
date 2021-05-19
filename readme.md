@@ -112,18 +112,18 @@ Topic-Wise Roadmap To Learn Data Structures and Algorithms
 - [ ] [Graph Data Structure Algorithms - InterviewBit](https://www.interviewbit.com/courses/programming/topics/graph-data-structure-algorithms/ "Graph Data Structure Algorithms - InterviewBit")
 
 
-7. Dynamic Programming:
+#7. Dynamic Programming:
 	
-	-Video lectures:
-		a. Lec 1 - https://www.youtube.com/watch?v=OQ5jsbhAv_M\u0026list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78
-		b. Lec 2 - https://www.youtube.com/watch?v=ENyox7kNKeY\u0026list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78\u0026index=2
-		c. Lec 3 - https://www.youtube.com/watch?v=ocZMDMZwhCY\u0026list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78\u0026index=3
+###	-Video lectures:
+- [ ] [Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M\u0026list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78 "Dynamic Programming I: Fibonacci, Shortest Paths")
+- [ ] [Dynamic Programming II: Text Justification, Blackjack](https://www.youtube.com/watch?v=ENyox7kNKeY\u0026list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78\u0026index=2 "Dynamic Programming II: Text Justification, Blackjack")
+- [ ] [Dynamic Programming III: Parenthesization, Edit Distance, Knapsack](https://www.youtube.com/watch?v=ocZMDMZwhCY\u0026list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78\u0026index=3 "Dynamic Programming III: Parenthesization, Edit Distance, Knapsack")
 
-	-Bare minimum (Standard problems):
-		a. https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
-		b. https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
-		c. https://www.geeksforgeeks.org/coin-change-dp-7/
-		d. https://www.geeksforgeeks.org/compute-ncr-p-set-1-introduction-and-dynamic-programming-solution/
+###	-Bare minimum (Standard problems):
+- [ ] [Program For nth Fibonacci Number - GeeksForGeeks](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/ "Program For nth Fibonacci Number - GeeksForGeeks")
+- [ ] [0-1 Knapsack Problem - GeeksForGeeks](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/ "0-1 Knapsack Problem - GeeksForGeeks")
+- [ ] [Coin Change - GeeksForGeeks](https://www.geeksforgeeks.org/coin-change-dp-7/ "Coin Change - GeeksForGeeks")
+- [ ] [](https://www.geeksforgeeks.org/compute-ncr-p-set-1-introduction-and-dynamic-programming-solution/ "Compute NCR P Set")
 		e. https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
 		f. https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
 		g. https://www.geeksforgeeks.org/longest-common-substring-dp-29/
