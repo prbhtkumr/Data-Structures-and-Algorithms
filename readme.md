@@ -16,7 +16,9 @@ Roadmap To Learn Data Structures and Algorithms
 ###	-Bonus
 - [ ] [Interview Bit Array Problems - LeetCode](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems - LeetCode")
 - [ ] [LeetCode Array Problems.](https://leetcode.com/tag/array/ "Array Problems - LeetCode")
-------------------------------------------------------------
+<br>
+
+-------------
 <br>
 <br>
 
@@ -28,7 +30,9 @@ Roadmap To Learn Data Structures and Algorithms
 ###	-Bonus
 - [ ] [String Problems - LeetCode](https://leetcode.com/tag/string/ "String Problems - LeetCode")
 - [ ] [Problem solving (String) - HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved%5Cu0026filters%5Bsubdomains%5D%5B%5D%3Dstrings%5Cu0026badge_type%3Dproblem-solving&filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=strings "Problem solving (String) - HackerRank")
----------------------------------------------------------------
+<br>
+
+--------
 <br>
 <br>
 
@@ -40,7 +44,9 @@ Roadmap To Learn Data Structures and Algorithms
 ###	-Bonus
 - [ ] [Linked-List Questions - LeetCode](https://leetcode.com/tag/linked-list/ "Linked-List Questions - LeetCode")
 - [ ] [Top 20 Linked-List Questions - GeeksForGeeks](https://www.geeksforgeeks.org/top-20-linked-list-interview-question/ "Top 20 Linked-List Questions - GeeksForGeeks")
------------------------------------------------------------------
+<br>
+
+--------
 <br>
 <br>
 
@@ -58,7 +64,9 @@ Roadmap To Learn Data Structures and Algorithms
 - [ ] [Queue Problems - LeetCode](https://leetcode.com/tag/queue/ "Queue Problems - LeetCode")
 - [ ] [Queue Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/queue-data-structure/ "Queue Data Structure - GeeksForGeeks")
 - [ ] [Stack Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/stack-data-structure0 "Stack Data Structure - GeeksForGeeks")
-------------------------------------------------------------------
+<br>
+
+---------
 <br>
 <br>
 
@@ -81,7 +89,9 @@ Roadmap To Learn Data Structures and Algorithms
 - [ ] [Heap - LeetCode](https://leetcode.com/tag/heap/ "Heap - LeetCode")
 - [ ] [Trie - LeetCode](https://leetcode.com/tag/trie/ "Trie - LeetCode")
 - [ ] [Hash Table - LeetCode](https://leetcode.com/tag/hash-table/ "Hash Table - LeetCode")
--------------------------------------------------------------------
+<br>
+
+--------
 <br>
 <br>
 
