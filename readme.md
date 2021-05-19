@@ -1,26 +1,27 @@
 Roadmap To Learn Data Structures and Algorithms
-===================
+===============================================
 
-Topic-wise links:
+# Topic-wise links:
+-------------------
+# 1. Arrays
 
-1. Arrays
+##	-Bare Minimum
+- [ ] [Top 50 Array Coding Problems - GeeksForGeeks.](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/ "Top 50 Array Coding Problems - GeeksForGeeks")
 
-	-Bare Minimum
-		a. https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/
-
-	-Bonus
-		a. https://www.interviewbit.com/courses/programming/topics/arrays/
-		b. https://leetcode.com/tag/array/
+##	-Bonus
+- [ ] [InterviewBit.](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems")
+- [ ] [LeetCode](https://leetcode.com/tag/array/ "LeetCode Array Problems")
+---------------------------------------------
 
 
-2. Strings
+# 2. Strings
 
-	-Bare Minimum
-		a. https://www.interviewbit.com/courses/programming/topics/strings/
+##	-Bare Minimum
+- [ ] [InterviewBit](https://www.interviewbit.com/courses/programming/topics/strings/ "InterviewBit")
 	
-	-Bonus
-		a. https://leetcode.com/tag/string/
-	b. https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved\u0026filters%5Bsubdomains%5D%5B%5D=strings\u0026badge_type=problem-solving
+##	-Bonus
+- [ ] [LeetCode](https://leetcode.com/tag/string/ "LeetCode")
+- [ ] [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved\u0026filters%5Bsubdomains%5D%5B%5D=strings\u0026badge_type=problem-solving  "HackerRank Problem solving")
 
 
 3. Linked Lists
