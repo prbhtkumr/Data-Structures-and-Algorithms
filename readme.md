@@ -5,10 +5,10 @@ Roadmap To Learn Data Structures and Algorithms
 -------------------
 # 1. Arrays
 
-##	-Bare Minimum
+###	-Bare Minimum
 - [ ] [Top 50 Array Coding Problems - GeeksForGeeks.](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/ "Top 50 Array Coding Problems - GeeksForGeeks")
 
-##	-Bonus
+###	-Bonus
 - [ ] [InterviewBit.](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems")
 - [ ] [LeetCode](https://leetcode.com/tag/array/ "LeetCode Array Problems")
 ---------------------------------------------
@@ -16,12 +16,12 @@ Roadmap To Learn Data Structures and Algorithms
 
 # 2. Strings
 
-##	-Bare Minimum
+###	-Bare Minimum
 - [ ] [InterviewBit](https://www.interviewbit.com/courses/programming/topics/strings/ "InterviewBit")
 	
-##	-Bonus
+###	-Bonus
 - [ ] [LeetCode](https://leetcode.com/tag/string/ "LeetCode")
-- [ ] [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved\u0026filters%5Bsubdomains%5D%5B%5D=strings\u0026badge_type=problem-solving  "HackerRank Problem solving")
+- [ ] [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved%5Cu0026filters%5Bsubdomains%5D%5B%5D%3Dstrings%5Cu0026badge_type%3Dproblem-solving&filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=strings "HackerRank Problem solving")
 
 
 3. Linked Lists
