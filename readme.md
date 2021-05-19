@@ -123,12 +123,12 @@ Topic-Wise Roadmap To Learn Data Structures and Algorithms
 - [ ] [Program For nth Fibonacci Number - GeeksForGeeks](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/ "Program For nth Fibonacci Number - GeeksForGeeks")
 - [ ] [0-1 Knapsack Problem - GeeksForGeeks](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/ "0-1 Knapsack Problem - GeeksForGeeks")
 - [ ] [Coin Change - GeeksForGeeks](https://www.geeksforgeeks.org/coin-change-dp-7/ "Coin Change - GeeksForGeeks")
-- [ ] [](https://www.geeksforgeeks.org/compute-ncr-p-set-1-introduction-and-dynamic-programming-solution/ "Compute NCR P Set")
-		e. https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/
-		f. https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
-		g. https://www.geeksforgeeks.org/longest-common-substring-dp-29/
+- [ ] [Compute nCr % p - GeeksForGeeks](https://www.geeksforgeeks.org/compute-ncr-p-set-1-introduction-and-dynamic-programming-solution/ "Compute nCr % p - GeeksForGeeks")
+- [ ] [Longest Increasing Subsequence - GeeksForGeeks](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/ "Longest Increasing Subsequence - GeeksForGeeks")
+- [ ] [Longest Common Subsequence - GeeksForGeeks](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/ "Longest Common Subsequence - GeeksForGeeks")
+- [ ] [Longest Commono Substring - GeeksForGeeks](https://www.geeksforgeeks.org/longest-common-substring-dp-29/ "Longest Commono Substring - GeeksForGeeks")
 
 
-	-Bonus:
-		a. https://www.interviewbit.com/courses/programming/topics/dynamic-programming/
-		b. https://leetcode.com/tag/dynamic-programming/
+###	-Bonus:
+- [ ] [Dynamic Programming - InterviewBit](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/ "Dynamic Programming - InterviewBit")
+- [ ] [Dynamic Programming - LeetCode](https://leetcode.com/tag/dynamic-programming/ "Dynamic Programming - LeetCode")
