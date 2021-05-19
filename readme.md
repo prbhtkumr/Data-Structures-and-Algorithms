@@ -9,29 +9,29 @@ Roadmap To Learn Data Structures and Algorithms
 - [ ] [Top 50 Array Coding Problems - GeeksForGeeks.](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/ "Top 50 Array Coding Problems - GeeksForGeeks")
 
 ###	-Bonus
-- [ ] [InterviewBit.](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems")
-- [ ] [LeetCode](https://leetcode.com/tag/array/ "LeetCode Array Problems")
+- [ ] [Interview Bit Array Problems.](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems")
+- [ ] [LeetCode Array Problems.](https://leetcode.com/tag/array/ "LeetCode Array Problems")
 ---------------------------------------------
 
 
 # 2. Strings
 
 ###	-Bare Minimum
-- [ ] [InterviewBit](https://www.interviewbit.com/courses/programming/topics/strings/ "InterviewBit")
+- [ ] [InterviewBit String Problems.](https://www.interviewbit.com/courses/programming/topics/strings/ "InterviewBit String Problems")
 	
 ###	-Bonus
-- [ ] [LeetCode](https://leetcode.com/tag/string/ "LeetCode")
-- [ ] [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved%5Cu0026filters%5Bsubdomains%5D%5B%5D%3Dstrings%5Cu0026badge_type%3Dproblem-solving&filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=strings "HackerRank Problem solving")
+- [ ] [LeetCode String Problems.](https://leetcode.com/tag/string/ "LeetCode String Problems")
+- [ ] [HackerRank Problem solving.](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved%5Cu0026filters%5Bsubdomains%5D%5B%5D%3Dstrings%5Cu0026badge_type%3Dproblem-solving&filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=strings "HackerRank Problem solving")
 
 
-3. Linked Lists
+# 3. Linked Lists
 	
-	-Bare Minimum
-		a. https://www.interviewbit.com/courses/programming/topics/linked-lists/
+###	-Bare Minimum
+- [ ] [InterviewBit Linked-List Problems.](https://www.interviewbit.com/courses/programming/topics/linked-lists/ "InterviewBit Linked-List Problems")
 
-	-Bonus
-		a. https://leetcode.com/tag/linked-list/
-		b. https://www.geeksforgeeks.org/top-20-linked-list-interview-question/
+###	-Bonus
+- [ ] [LeetCode Linked-List Questions.](https://leetcode.com/tag/linked-list/ "LeetCode Linked-List Questions")
+- [ ] [Top 20 Linked-List Questions - GeeksForGeeks](https://www.geeksforgeeks.org/top-20-linked-list-interview-question/ "Top 20 Linked-List Questions - GeeksForGeeks")
 
 
 4. Stacks and Queues
