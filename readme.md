@@ -38,7 +38,7 @@ Roadmap To Learn Data Structures and Algorithms
 	
 ###	-Theory:
 - [ ] [Stack Data Structure Introduction - GeeksForGeeks](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/ "Stack Data Structure Introduction - GeeksForGeeks")
-		b. https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/
+- [ ] [Queue Set Introduction and Array Implementation - GeeksForGeeks](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/ "Queue Set Introduction and Array Implementation - GeeksForGeeks")
 
 	-Bare Minimum
 		a. https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/
