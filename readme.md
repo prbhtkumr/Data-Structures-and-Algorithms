@@ -91,19 +91,19 @@ Topic-Wise Roadmap To Learn Data Structures and Algorithms
 
 <br>
 
-6. Graphs:
+# 6. Graphs:
 
-	-Theory:
-		a. https://www.geeksforgeeks.org/graph-and-its-representations/
+###	-Theory:
+- [ ] [Graph and It's Representations](https://www.geeksforgeeks.org/graph-and-its-representations/ "Graph and It's Representations - GeeksForGeeks")
 
-	-Standard Algos:
-		a. BFS - https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
-		b. DFS - https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
-		c. Dijkstra - https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
-		d. Prim's - https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
-		e. Kruskal - https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
-		f. Floyd-Warshall - https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/
-		g. Union Find - https://www.geeksforgeeks.org/union-find-algorithm-union-rank-find-optimized-path-compression/
+###	-Standard Algos:
+- [ ] [Breadth First Search - GeeksForGeeks](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/ "Breadth First Search - GeeksForGeeks")
+- [ ] [Depth First Search - GeeksForGeeks](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/ "Depth First Search - GeeksForGeeks")
+- [ ] [Dijkstra's Shortest Path Algorithm - GeeksForGeeks](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/ "Dijkstra's Shortest Path Algorithm - GeeksForGeeks")
+- [ ] [Prim's Minimum Spanning Tree - GeeksForGeeks](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/ "Prim's Minimum Spanning Tree - GeeksForGeeks")
+- [ ] [Kruskal's Minimum Spinning Tree Algorithm](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/ "Kruskal's Minimum Spinning Tree Algorithm")
+- [ ] [Floyd Warshall Algorithm - GeeksForGeeks](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/ "Floyd Warshall Algorithm - GeeksForGeeks")
+- [ ] [Union Find Algorithm - GeeksForGeeks](https://www.geeksforgeeks.org/union-find-algorithm-union-rank-find-optimized-path-compression/ "Union Find Algorithm - GeeksForGeeks")
 
 
 	-Bare Minimum:
