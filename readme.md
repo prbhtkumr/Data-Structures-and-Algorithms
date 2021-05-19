@@ -105,12 +105,11 @@ Topic-Wise Roadmap To Learn Data Structures and Algorithms
 - [ ] [Floyd Warshall Algorithm - GeeksForGeeks](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/ "Floyd Warshall Algorithm - GeeksForGeeks")
 - [ ] [Union Find Algorithm - GeeksForGeeks](https://www.geeksforgeeks.org/union-find-algorithm-union-rank-find-optimized-path-compression/ "Union Find Algorithm - GeeksForGeeks")
 
+###	-Bare Minimum:
+- [ ] [Graph Problems - LeetCode](https://leetcode.com/tag/graph/ "Graph Problems - LeetCode") (Easy and Medium)
 
-	-Bare Minimum:
-		a. https://leetcode.com/tag/graph/ (Easy and Medium)
-
-	-Bonus:
-		a. https://www.interviewbit.com/courses/programming/topics/graph-data-structure-algorithms/
+###	-Bonus:
+- [ ] [Graph Data Structure Algorithms - InterviewBit](https://www.interviewbit.com/courses/programming/topics/graph-data-structure-algorithms/ "Graph Data Structure Algorithms - InterviewBit")
 
 
 7. Dynamic Programming:
