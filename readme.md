@@ -10,7 +10,7 @@ Roadmap To Learn Data Structures and Algorithms
 
 ###	-Bonus
 - [ ] [Interview Bit Array Problems - LeetCode](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems - LeetCode")
-- [ ] [LeetCode Array Problems.](https://leetcode.com/tag/array/ "LeetCode Array Problems")
+- [ ] [LeetCode Array Problems.](https://leetcode.com/tag/array/ "Array Problems - LeetCode")
 ---------------------------------------------
 
 
@@ -27,7 +27,7 @@ Roadmap To Learn Data Structures and Algorithms
 # 3. Linked Lists
 	
 ###	-Bare Minimum
-- [ ] [Linked-List Problems - InterviewBit](https://www.interviewbit.com/courses/programming/topics/linked-lists/ "InterviewBit Linked-List Problems")
+- [ ] [Linked-List Problems - InterviewBit](https://www.interviewbit.com/courses/programming/topics/linked-lists/ "Linked-List Problems - InterviewBit")
 
 ###	-Bonus
 - [ ] [Linked-List Questions - LeetCode](https://leetcode.com/tag/linked-list/ "Linked-List Questions - LeetCode")
@@ -41,13 +41,13 @@ Roadmap To Learn Data Structures and Algorithms
 - [ ] [Queue Set Introduction and Array Implementation - GeeksForGeeks](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/ "Queue Set Introduction and Array Implementation - GeeksForGeeks")
 
 ###	-Bare Minimum
-- [ ] [](https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/ "")
+- [ ] [Stacks and Queues - InterviewBit](https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/ "Stacks and Queues - InterviewBit")
 
-	-Bonus
-		a. https://leetcode.com/tag/stack/
-		b. https://leetcode.com/tag/queue/
-		c. https://www.geeksforgeeks.org/queue-data-structure/
-		d. https://www.geeksforgeeks.org/stack-data-structure0
+###	-Bonus
+- [ ] [Stack Problems - LeetCode](https://leetcode.com/tag/stack/ "Stack Problems - LeetCode")
+- [ ] [Queue Problems - LeetCode](https://leetcode.com/tag/queue/ "Queue Problems - LeetCode")
+- [ ] [Queue Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/queue-data-structure/ "Queue Data Structure - GeeksForGeeks")
+- [ ] [Stack Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/stack-data-structure0 "Stack Data Structure - GeeksForGeeks")
 
 
 5. Tree-based data structures:
