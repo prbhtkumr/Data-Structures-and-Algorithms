@@ -20,7 +20,7 @@ Roadmap To Learn Data Structures and Algorithms
 <br>
 
 -------------
-<br>
+
 <br>
 
 # 2. Strings
@@ -34,7 +34,7 @@ Roadmap To Learn Data Structures and Algorithms
 <br>
 
 --------
-<br>
+
 <br>
 
 # 3. Linked Lists
@@ -48,7 +48,7 @@ Roadmap To Learn Data Structures and Algorithms
 <br>
 
 --------
-<br>
+
 <br>
 
 # 4. Stacks and Queues
@@ -68,7 +68,7 @@ Roadmap To Learn Data Structures and Algorithms
 <br>
 
 ---------
-<br>
+
 <br>
 
 # 5. Tree-based data structures:
@@ -93,7 +93,7 @@ Roadmap To Learn Data Structures and Algorithms
 <br>
 
 --------
-<br>
+
 <br>
 
 6. Graphs:
