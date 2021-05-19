@@ -6,10 +6,10 @@ Roadmap To Learn Data Structures and Algorithms
 # 1. Arrays
 
 ###	-Bare Minimum
-- [ ] [Top 50 Array Coding Problems - GeeksForGeeks.](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/ "Top 50 Array Coding Problems - GeeksForGeeks")
+- [ ] [Top 50 Array Coding Problems - GeeksForGeeks](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/ "Top 50 Array Coding Problems - GeeksForGeeks")
 
 ###	-Bonus
-- [ ] [Interview Bit Array Problems.](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems")
+- [ ] [Interview Bit Array Problems - LeetCode](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems - LeetCode")
 - [ ] [LeetCode Array Problems.](https://leetcode.com/tag/array/ "LeetCode Array Problems")
 ---------------------------------------------
 
@@ -17,20 +17,20 @@ Roadmap To Learn Data Structures and Algorithms
 # 2. Strings
 
 ###	-Bare Minimum
-- [ ] [InterviewBit String Problems.](https://www.interviewbit.com/courses/programming/topics/strings/ "InterviewBit String Problems")
+- [ ] [String Problems - InterviewBit](https://www.interviewbit.com/courses/programming/topics/strings/ "String Problems - InterviewBit")
 	
 ###	-Bonus
-- [ ] [LeetCode String Problems.](https://leetcode.com/tag/string/ "LeetCode String Problems")
-- [ ] [HackerRank Problem solving.](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved%5Cu0026filters%5Bsubdomains%5D%5B%5D%3Dstrings%5Cu0026badge_type%3Dproblem-solving&filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=strings "HackerRank Problem solving")
+- [ ] [String Problems - LeetCode](https://leetcode.com/tag/string/ "String Problems - LeetCode")
+- [ ] [Problem solving (String) - HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved%5Cu0026filters%5Bsubdomains%5D%5B%5D%3Dstrings%5Cu0026badge_type%3Dproblem-solving&filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=strings "Problem solving (String) - HackerRank")
 
 
 # 3. Linked Lists
 	
 ###	-Bare Minimum
-- [ ] [InterviewBit Linked-List Problems.](https://www.interviewbit.com/courses/programming/topics/linked-lists/ "InterviewBit Linked-List Problems")
+- [ ] [Linked-List Problems - InterviewBit](https://www.interviewbit.com/courses/programming/topics/linked-lists/ "InterviewBit Linked-List Problems")
 
 ###	-Bonus
-- [ ] [LeetCode Linked-List Questions.](https://leetcode.com/tag/linked-list/ "LeetCode Linked-List Questions")
+- [ ] [Linked-List Questions - LeetCode](https://leetcode.com/tag/linked-list/ "Linked-List Questions - LeetCode")
 - [ ] [Top 20 Linked-List Questions - GeeksForGeeks](https://www.geeksforgeeks.org/top-20-linked-list-interview-question/ "Top 20 Linked-List Questions - GeeksForGeeks")
 
 
@@ -40,8 +40,8 @@ Roadmap To Learn Data Structures and Algorithms
 - [ ] [Stack Data Structure Introduction - GeeksForGeeks](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/ "Stack Data Structure Introduction - GeeksForGeeks")
 - [ ] [Queue Set Introduction and Array Implementation - GeeksForGeeks](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/ "Queue Set Introduction and Array Implementation - GeeksForGeeks")
 
-	-Bare Minimum
-		a. https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/
+###	-Bare Minimum
+- [ ] [](https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/ "")
 
 	-Bonus
 		a. https://leetcode.com/tag/stack/
