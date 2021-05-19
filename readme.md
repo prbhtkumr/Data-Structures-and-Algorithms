@@ -3,6 +3,9 @@ Roadmap To Learn Data Structures and Algorithms
 
 # Topic-wise links:
 -------------------
+<br>
+<br>
+
 # 1. Arrays
 
 ###	-Bare Minimum
@@ -11,8 +14,9 @@ Roadmap To Learn Data Structures and Algorithms
 ###	-Bonus
 - [ ] [Interview Bit Array Problems - LeetCode](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems - LeetCode")
 - [ ] [LeetCode Array Problems.](https://leetcode.com/tag/array/ "Array Problems - LeetCode")
----------------------------------------------
-
+------------------------------------------------------------
+<br>
+<br>
 
 # 2. Strings
 
@@ -22,7 +26,9 @@ Roadmap To Learn Data Structures and Algorithms
 ###	-Bonus
 - [ ] [String Problems - LeetCode](https://leetcode.com/tag/string/ "String Problems - LeetCode")
 - [ ] [Problem solving (String) - HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved%5Cu0026filters%5Bsubdomains%5D%5B%5D%3Dstrings%5Cu0026badge_type%3Dproblem-solving&filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=strings "Problem solving (String) - HackerRank")
-
+---------------------------------------------------------------
+<br>
+<br>
 
 # 3. Linked Lists
 	
@@ -32,7 +38,9 @@ Roadmap To Learn Data Structures and Algorithms
 ###	-Bonus
 - [ ] [Linked-List Questions - LeetCode](https://leetcode.com/tag/linked-list/ "Linked-List Questions - LeetCode")
 - [ ] [Top 20 Linked-List Questions - GeeksForGeeks](https://www.geeksforgeeks.org/top-20-linked-list-interview-question/ "Top 20 Linked-List Questions - GeeksForGeeks")
-
+-----------------------------------------------------------------
+<br>
+<br>
 
 # 4. Stacks and Queues
 	
@@ -48,28 +56,32 @@ Roadmap To Learn Data Structures and Algorithms
 - [ ] [Queue Problems - LeetCode](https://leetcode.com/tag/queue/ "Queue Problems - LeetCode")
 - [ ] [Queue Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/queue-data-structure/ "Queue Data Structure - GeeksForGeeks")
 - [ ] [Stack Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/stack-data-structure0 "Stack Data Structure - GeeksForGeeks")
+------------------------------------------------------------------
+<br>
+<br>
 
+# 5. Tree-based data structures:
 
-5. Tree-based data structures:
+###	-Theory:
+- [ ] [Binary Tree Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/binary-tree-data-structure/ "Binary Tree Data Structure - GeeksForGeeks")
+- [ ] [Binary Search Tree Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/ "Binary Search Tree Data Structure - GeeksForGeeks")
+- [ ] [Trie Insert and Search - GeeksForGeeks](https://www.geeksforgeeks.org/trie-insert-and-search/ "Trie Insert and Search - GeeksForGeeks")
+- [ ] [Heap Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/heap-data-structure/ "Heap Data Structure - GeeksForGeeks")
+- [ ] [Hashing Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/hashing-data-structure/ "Hashing Data Structure - GeeksForGeeks")
 
-	-Theory:
-		a. https://www.geeksforgeeks.org/binary-tree-data-structure/
-		b. https://www.geeksforgeeks.org/binary-search-tree-data-structure/
-		c. https://www.geeksforgeeks.org/trie-insert-and-search/
-		d. https://www.geeksforgeeks.org/heap-data-structure/
-		e. https://www.geeksforgeeks.org/hashing-data-structure/
+###	-Bare minimum:
+- [ ] [Tree Data Structure - InterviewBit](https://www.interviewbit.com/courses/programming/topics/tree-data-structure/ "Tree Data Structure - InterviewBit")
+- [ ] [Heaps and Maps - InterviewBit](https://www.interviewbit.com/courses/programming/topics/heaps-and-maps/ "Heaps and Maps - InterviewBit")
+- [ ] [Hashing - InterviewBit](https://www.interviewbit.com/courses/programming/topics/hashing/ "Hashing - InterviewBit")
 
-	-Bare minimum:
-		a. https://www.interviewbit.com/courses/programming/topics/tree-data-structure/
-		b. https://www.interviewbit.com/courses/programming/topics/heaps-and-maps/
-		c. https://www.interviewbit.com/courses/programming/topics/hashing/
-
-	-Bonus
-		a. https://leetcode.com/tag/tree/
-		b. https://leetcode.com/tag/heap/
-		c. https://leetcode.com/tag/trie/
-		d. https://leetcode.com/tag/hash-table/
-
+###	-Bonus
+- [ ] [Tree - LeetCode](https://leetcode.com/tag/tree/ "Tree - LeetCode")
+- [ ] [Heap - LeetCode](https://leetcode.com/tag/heap/ "Heap - LeetCode")
+- [ ] [Trie - LeetCode](https://leetcode.com/tag/trie/ "Trie - LeetCode")
+- [ ] [Hash Table - LeetCode](https://leetcode.com/tag/hash-table/ "Hash Table - LeetCode")
+-------------------------------------------------------------------
+<br>
+<br>
 
 6. Graphs:
 
