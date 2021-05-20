@@ -10,8 +10,8 @@ Topic-Wise Roadmap To Learn Data Structures and Algorithms
 - [ ] [  Top 50 Array Coding Problems - GeeksForGeeks](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/ "Top 50 Array Coding Problems - GeeksForGeeks")
 
 ###	-Bonus
-- [ ] [  Interview Bit Array Problems - LeetCode](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems - LeetCode")
-- [ ] [  LeetCode Array Problems.](https://leetcode.com/tag/array/ "Array Problems - LeetCode")
+- [ ] [  Array Problems - InterviewBit](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems - InterviewBit")
+- [ ] [  Array Problems - LeetCode](https://leetcode.com/tag/array/ "Array Problems - LeetCode")
 
 -------------
 
