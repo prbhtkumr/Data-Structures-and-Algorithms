@@ -12,11 +12,8 @@ Topic-Wise Roadmap To Learn Data Structures and Algorithms
 ###	-Bonus
 - [ ] [  Interview Bit Array Problems - LeetCode](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems - LeetCode")
 - [ ] [  LeetCode Array Problems.](https://leetcode.com/tag/array/ "Array Problems - LeetCode")
-<br>
 
 -------------
-
-<br>
 
 # 2. Strings
 
@@ -40,11 +37,8 @@ Topic-Wise Roadmap To Learn Data Structures and Algorithms
 ###	-Bonus
 - [ ] [  Linked-List Questions - LeetCode](https://leetcode.com/tag/linked-list/ "Linked-List Questions - LeetCode")
 - [ ] [  Top 20 Linked-List Questions - GeeksForGeeks](https://www.geeksforgeeks.org/top-20-linked-list-interview-question/ "Top 20 Linked-List Questions - GeeksForGeeks")
-<br>
 
 --------
-
-<br>
 
 # 4. Stacks and Queues
 	
@@ -60,11 +54,8 @@ Topic-Wise Roadmap To Learn Data Structures and Algorithms
 - [ ] [  Queue Problems - LeetCode](https://leetcode.com/tag/queue/ "Queue Problems - LeetCode")
 - [ ] [  Queue Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/queue-data-structure/ "Queue Data Structure - GeeksForGeeks")
 - [ ] [  Stack Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/stack-data-structure0 "Stack Data Structure - GeeksForGeeks")
-<br>
 
 ---------
-
-<br>
 
 # 5. Tree-based data structures:
 
@@ -85,11 +76,8 @@ Topic-Wise Roadmap To Learn Data Structures and Algorithms
 - [ ] [  Heap - LeetCode](https://leetcode.com/tag/heap/ "Heap - LeetCode")
 - [ ] [  Trie - LeetCode](https://leetcode.com/tag/trie/ "Trie - LeetCode")
 - [ ] [  Hash Table - LeetCode](https://leetcode.com/tag/hash-table/ "Hash Table - LeetCode")
-<br>
 
 --------
-
-<br>
 
 # 6. Graphs:
 
