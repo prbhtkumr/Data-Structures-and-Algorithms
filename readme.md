@@ -23,11 +23,8 @@ Topic-Wise Roadmap To Learn Data Structures and Algorithms
 ###	-Bonus
 - [ ] [  String Problems - LeetCode](https://leetcode.com/tag/string/ "String Problems - LeetCode")
 - [ ] [  Problem solving (String) - HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved%5Cu0026filters%5Bsubdomains%5D%5B%5D%3Dstrings%5Cu0026badge_type%3Dproblem-solving&filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bsubdomains%5D%5B%5D=strings "Problem solving (String) - HackerRank")
-<br>
 
 --------
-
-<br>
 
 # 3. Linked Lists
 	
