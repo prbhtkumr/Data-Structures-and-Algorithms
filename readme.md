@@ -3,7 +3,7 @@ Topic-Wise Roadmap To Learning Data Structures and Algorithms
 -------------
 <br>
 
-# [Back To Home Page](https://aerosol-can.github.io "Home Page")
+## [Back To Home Page](https://aerosol-can.github.io "Home Page")
 <br>
 
 # 1. Arrays
