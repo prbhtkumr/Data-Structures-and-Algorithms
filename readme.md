@@ -5,7 +5,7 @@ Topic-Wise Roadmap To Learning Data Structures and Algorithms
 
 # 1. Arrays
 
-###	-Basic
+###	-Basic Problems
 > - [x] [  Top 50 Array Coding Problems - GeeksForGeeks](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/ "Top 50 Array Coding Problems - GeeksForGeeks")
 
 ###	-Extra
@@ -16,7 +16,7 @@ Topic-Wise Roadmap To Learning Data Structures and Algorithms
 
 # 2. Strings
 
-###	-Basic
+###	-Basic Problems
 > - [ ] [  String Problems - InterviewBit](https://www.interviewbit.com/courses/programming/topics/strings/ "String Problems - InterviewBit")
 	
 ###	-Extra
@@ -27,7 +27,7 @@ Topic-Wise Roadmap To Learning Data Structures and Algorithms
 
 # 3. Linked Lists
 	
-###	-Basic
+###	-Basic Problems
 > - [ ] [  Linked-List Problems - InterviewBit](https://www.interviewbit.com/courses/programming/topics/linked-lists/ "Linked-List Problems - InterviewBit")
 
 ###	-Extra
@@ -42,7 +42,7 @@ Topic-Wise Roadmap To Learning Data Structures and Algorithms
 > - [ ] [  Stack Data Structure Introduction - GeeksForGeeks](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/ "Stack Data Structure Introduction - GeeksForGeeks")
 > - [ ] [  Queue Set Introduction and Array Implementation - GeeksForGeeks](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/ "Queue Set Introduction and Array Implementation - GeeksForGeeks")
 
-###	-Basic
+###	-Basic Problems
 > - [ ] [  Stacks and Queues - InterviewBit](https://www.interviewbit.com/courses/programming/topics/stacks-and-queues/ "Stacks and Queues - InterviewBit")
 
 ###	-Extra
@@ -62,7 +62,7 @@ Topic-Wise Roadmap To Learning Data Structures and Algorithms
 > - [ ] [  Heap Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/heap-data-structure/ "Heap Data Structure - GeeksForGeeks")
 > - [ ] [  Hashing Data Structure - GeeksForGeeks](https://www.geeksforgeeks.org/hashing-data-structure/ "Hashing Data Structure - GeeksForGeeks")
 
-###	-Basic
+###	-Basic Problems
 > - [ ] [  Tree Data Structure - InterviewBit](https://www.interviewbit.com/courses/programming/topics/tree-data-structure/ "Tree Data Structure - InterviewBit")
 > - [ ] [  Heaps and Maps - InterviewBit](https://www.interviewbit.com/courses/programming/topics/heaps-and-maps/ "Heaps and Maps - InterviewBit")
 > - [ ] [  Hashing - InterviewBit](https://www.interviewbit.com/courses/programming/topics/hashing/ "Hashing - InterviewBit")
@@ -89,7 +89,7 @@ Topic-Wise Roadmap To Learning Data Structures and Algorithms
 > - [ ] [  Floyd Warshall Algorithm - GeeksForGeeks](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/ "Floyd Warshall Algorithm - GeeksForGeeks")
 > - [ ] [  Union Find Algorithm - GeeksForGeeks](https://www.geeksforgeeks.org/union-find-algorithm-union-rank-find-optimized-path-compression/ "Union Find Algorithm - GeeksForGeeks")
 
-###	-Basic
+###	-Basic Problems
 > - [ ] [  Graph Problems - LeetCode](https://leetcode.com/tag/graph/ "Graph Problems - LeetCode") (Easy and Medium)
 
 ###	-Extra
@@ -104,7 +104,7 @@ Topic-Wise Roadmap To Learning Data Structures and Algorithms
 > - [ ] [  Dynamic Programming II: Text Justification, Blackjack](https://www.youtube.com/watch?v=ENyox7kNKeY\u0026list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78\u0026index=2 "Dynamic Programming II: Text Justification, Blackjack")
 > - [ ] [  Dynamic Programming III: Parenthesization, Edit Distance, Knapsack](https://www.youtube.com/watch?v=ocZMDMZwhCY\u0026list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78\u0026index=3 "Dynamic Programming III: Parenthesization, Edit Distance, Knapsack")
 
-###	-Basic (Standard problems)
+###	-Basic Problems (Standard problems)
 > - [ ] [  Program For nth Fibonacci Number - GeeksForGeeks](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/ "Program For nth Fibonacci Number - GeeksForGeeks")
 > - [ ] [  0-1 Knapsack Problem - GeeksForGeeks](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/ "0-1 Knapsack Problem - GeeksForGeeks")
 > - [ ] [  Coin Change - GeeksForGeeks](https://www.geeksforgeeks.org/coin-change-dp-7/ "Coin Change - GeeksForGeeks")
