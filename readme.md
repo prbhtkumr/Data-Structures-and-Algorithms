@@ -118,3 +118,6 @@ Topic-Wise Roadmap To Learning Data Structures and Algorithms
 ###	-Extra
 > - [ ] [  Dynamic Programming - InterviewBit](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/ "Dynamic Programming - InterviewBit")
 > - [ ] [  Dynamic Programming - LeetCode](https://leetcode.com/tag/dynamic-programming/ "Dynamic Programming - LeetCode")
+----------------
+
+<img src="https://media.giphy.com/media/xT9IggwStckcpja6d2/giphy.gif"  />
