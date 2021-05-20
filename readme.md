@@ -112,7 +112,7 @@ Topic-Wise Roadmap To Learn Data Structures and Algorithms
 - [ ] [  Graph Data Structure Algorithms - InterviewBit](https://www.interviewbit.com/courses/programming/topics/graph-data-structure-algorithms/ "Graph Data Structure Algorithms - InterviewBit")
 
 
-#7. Dynamic Programming:
+# 7. Dynamic Programming:
 	
 ###	-Video lectures:
 - [ ] [  Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M\u0026list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78 "Dynamic Programming I: Fibonacci, Shortest Paths")
