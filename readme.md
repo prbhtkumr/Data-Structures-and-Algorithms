@@ -1,8 +1,7 @@
-## [cd ..](https://aerosol-can.github.io "Back to Home Page")
--------------
-
 Topic-Wise Roadmap To Learning Data Structures and Algorithms
 ===============================================
+-------------
+## [cd ..](https://aerosol-can.github.io "Back to Home Page")
 -------------
 
 # 1. Arrays
