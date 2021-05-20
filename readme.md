@@ -6,7 +6,7 @@ Topic-Wise Roadmap To Learning Data Structures and Algorithms
 # 1. Arrays
 
 ###	-Bare Minimum
-> - [ ] [  Top 50 Array Coding Problems - GeeksForGeeks](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/ "Top 50 Array Coding Problems - GeeksForGeeks")
+> - [x] [  Top 50 Array Coding Problems - GeeksForGeeks](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/ "Top 50 Array Coding Problems - GeeksForGeeks")
 
 ###	-Bonus
 > - [ ] [  Array Problems - InterviewBit](https://www.interviewbit.com/courses/programming/topics/arrays/ "Interview Bit Array Problems - InterviewBit")
